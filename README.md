@@ -31,8 +31,19 @@ To analyze insurance data and provide key insights into policy status, claim tre
 ![Screenshot 2025-06-29 220219](https://github.com/user-attachments/assets/7f62a26c-3a0b-4a18-a530-42fa763cef91)
 
 
+## Insights
+
+- Total Active vs Inactive Policies: Most policies are currently active, indicating strong customer retention.
+- Total Claim Amount: The total claim amount across all records is significantly high, showing active claim usage.
+- Highest Claiming Age Group: Customers aged 40–60 have filed the highest total claims.
+- Average Premium by Policy Type: Health policies have the highest average premium compared to other types.
+- Claim Approval Rate: Over 70% of claims are approved, showing a positive claim settlement trend.
+- Gender-Based Policy Count: Male customers hold a slightly higher number of policies than females.
+- Claim Trend Over Time: Claims show a rising trend in the last two quarters, indicating seasonal or policy-related impacts.
 
 
+## Final Conclusion:
+- This dashboard highlights key trends in policy status, claim behavior, and customer demographics, helping stakeholders make better decisions on policy offerings and claims handling.
 
 
 
