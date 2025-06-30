@@ -16,3 +16,27 @@ To analyze insurance data and provide key insights into policy status, claim tre
 - What percentage of claims have been approved vs rejected?
 - How many policies are issued to male vs female customers?
 - What is the trend of claim amounts over time (monthly/quarterly)?
+
+## Process
+
+- Imported raw insurance data into MS SQL Server for initial storage.
+- Performed data cleaning by removing duplicates and identifying null values.
+- Transformed columns (like dates, text formatting) and corrected data types.
+- Loaded the cleaned data into Power BI for analysis.
+- Created DAX measures and added interactive visuals for better insights.
+
+
+## Dashboard
+
+- <a herf="https://github.com/kunalkadu2001/Prism-Insurance-BI-Report/blob/main/Screenshot%202025-06-29%20220219.png"> Dashboard<a/>
+
+
+
+
+
+
+
+
+
+
+
