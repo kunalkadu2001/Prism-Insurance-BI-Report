@@ -28,7 +28,8 @@ To analyze insurance data and provide key insights into policy status, claim tre
 
 ## Dashboard
 
-- <a herf="https://github.com/kunalkadu2001/Prism-Insurance-BI-Report/blob/main/Screenshot%202025-06-29%20220219.png"> Dashboard<a/>
+![Screenshot 2025-06-29 220219](https://github.com/user-attachments/assets/7f62a26c-3a0b-4a18-a530-42fa763cef91)
+
 
 
 
