@@ -6,3 +6,13 @@ To analyze insurance data and provide key insights into policy status, claim tre
 
 ## Dataset used
 - <a href="https://github.com/kunalkadu2001/Prism-Insurance-BI-Report/blob/main/InsuranceData.csv"> Dataset</a>
+
+## Questions(KPIs)
+
+- What is the total number of active and inactive policies?
+- What is the total claim amount made across all policies?
+- Which age group has the highest total claim amount?
+- What is the average premium paid per policy type?
+- What percentage of claims have been approved vs rejected?
+- How many policies are issued to male vs female customers?
+- What is the trend of claim amounts over time (monthly/quarterly)?
